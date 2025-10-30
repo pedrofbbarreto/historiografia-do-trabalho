@@ -6,4 +6,4 @@ Este repositório é fruto de uma pesquisa de mestrado sobre a historiografia do
 
 Ao acessar o repositório clique ao lado de *Code* e depois em *Download Zip*
 
-![tutorial.gif]
+![tutorial](img/tutorial.gif)
