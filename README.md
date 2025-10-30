@@ -6,4 +6,4 @@ Este repositório é fruto de uma pesquisa de mestrado sobre a historiografia do
 
 Ao acessar o repositório clique ao lado de *Code* e depois em *Download Zip*
 
-![tutorial](tutorial.gif)
+![tutorial](https://github.com/pedrofbbarreto/historiografia-do-trabalho/blob/88c828d812e97c0b4101290fc33e1751144e684c/tutorial.gif)
